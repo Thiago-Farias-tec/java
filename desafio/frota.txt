@@ -1,0 +1,2 @@
+Carro | Placa: ABC1234 | Custo Total: 53000.0 | IPVA: 2000.0
+Caminhao | Placa: XYZ5678 | Custo Total: 120425.0 | IPVA: 1800.0
